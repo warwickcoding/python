@@ -1,4 +1,7 @@
-# Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2000px-Python_logo_and_wordmark.svg.png" style="height:100px">
+
+<br>
+
 Python Course Material for Warwick Coding 2017
 
 ### Course Structure
